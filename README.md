@@ -8,7 +8,7 @@
 
 - 📄 Current studies: Chemistry MA
 
-- 🌱 I’m currently learning: **Python, GitHub**
+- 🌱 Currently learning: **Python, GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
