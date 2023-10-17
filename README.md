@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Michał Sobieraj</h1>
+<h3 align="center">A student in love with chemistry, who is learning how to connect it with coding. </h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/Swa7CpzF7xTwwK6VWQ/giphy.webp?cid=ecf05e47w63jio7an4dpi5ho5tgpa1y315k30p154ypsmk3o&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
-<!--
-**michalsobieraj69/michalsobieraj69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">About me:</h3>
 
-Here are some ideas to get you started:
+- 📝 Finished degrees: Medicinal Chemistry BA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Current studies: Chemistry MA
+
+- 🌱 I’m currently learning: **Python, GitHub**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-sobieraj-260817242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-sobieraj-260817242/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
