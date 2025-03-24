@@ -1,13 +1,11 @@
 s<h1 align="center">Hi 👋, I'm Michał Sobieraj</h1>
-<h3 align="center">A student in love with chemistry, learning to connect it with IT. </h3>
+<h3 align="center">A chemistry student exploring the intersection of their field with information technology </h3>
 
 <h3 align="left">About me:</h3>
 
 - 📝 Finished degrees: Medicinal Chemistry BA
 
 - 📄 Current studies: Chemistry MSc
-
-- 🌱 Currently learning: **Python, GitHub, Autodock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
